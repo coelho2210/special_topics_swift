@@ -16,6 +16,7 @@ o	CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It
 o	The Podfile is a specification that describes the dependencies of the targets of one or more Xcode projects.
 
 o	How to implement it:
+
 	target 'MyApp' do
 use_frameworks!
 pod 'Alamofire', '~> 5.0'
